@@ -1,0 +1,11 @@
+{
+  "name": "my-tunes",
+  "version": "1.0.0",
+  "description": "My Tunes Landing Page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hamza Asif",
+  "license": "MIT"
+}
